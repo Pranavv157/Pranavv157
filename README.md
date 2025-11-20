@@ -5,7 +5,7 @@ This is my personal portfolio where I showcase all my **Machine Learning**, **Da
 I created this page to keep everything organized and make it easy for recruiters to explore my work.
 
 
-# 🚀 Machine Learning Projects
+# 🚀 Data Science Projects
 
 ### 🔹 Customer Churn Prediction (End-to-End ML + Streamlit)
 Predicts whether a telecom customer will leave the service.  
