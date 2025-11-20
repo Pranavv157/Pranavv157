@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pranav Shinde  
+# 👋 Hi, I'm Pranav
 ### Welcome to my Project Portfolio
 
 This is my personal portfolio where I showcase all my **Machine Learning**, **Data Analysis**, **SQL**, and **GenAI** projects.  
