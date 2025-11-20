@@ -8,10 +8,7 @@ I created this page to keep everything organized and make it easy for recruiters
 # 🚀 Data Science Projects
 
 ### 🔹 Customer Churn Prediction (End-to-End ML + Streamlit)
-Predicts whether a telecom customer will leave the service.  
-- Logistic Regression Model – ~78% accuracy  
-- Clean data preprocessing pipeline  
-- Streamlit app for live prediction  
+
 👉 **Repo:** [Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
 
 
