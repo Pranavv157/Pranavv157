@@ -9,7 +9,7 @@ I created this page to keep everything organized and make it easy for recruiters
 
 ### 🔹 Customer Churn Prediction (using Streamlit)
 
-👉 **Repo:** [Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
+**Repo:** [Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
 
 
 # 📊 Data Analyst Projects  
@@ -17,6 +17,8 @@ I created this page to keep everything organized and make it easy for recruiters
 
 
 # 🤖 GenAI / LLM Projects  
+**Repo:** [Genai_doc_chat](https://github.com/Pranavv157/genai-doc-chat.git  )
+
 
 
 
