@@ -5,18 +5,19 @@ This is my personal portfolio where I showcase all my **Machine Learning**, **Da
 I created this page to keep everything organized and make it easy for recruiters to explore my work.
 
 
-#  Data Science Projects
+#  📊 Data Science / Analytics
 
 ### 🔹 Customer Churn Prediction (using Streamlit)
 **Repo:** [Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
 
 
-#  Backend Project
+#  ⚙️ Backend Project
+### 🔹 Job-Portal project
 **Repo:** [Job-Portal](https://github.com/Pranavv157/job_portal.git)
 
 
 
-#  GenAI / LLM Projects  
+# 🤖 GenAI / LLM Projects  
 ### 🔹 Gen AI document chat
 **Repo:** [Genai_doc_chat](https://github.com/Pranavv157/genai-doc-chat.git  )
 
