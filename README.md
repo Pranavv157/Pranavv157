@@ -7,18 +7,20 @@ I created this page to keep everything organized and make it easy for recruiters
 
 #  📊 Data Science / Analytics
 
-### 🔹 Customer Churn Prediction (using Streamlit)
+### 🔹Customer Churn Prediction (using Streamlit)
 **Repo:** [Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
 
 
 #  ⚙️ Backend Project
-### 🔹 Job-Portal project
+### 🔹Job-Portal project
 **Repo:** [Job-Portal](https://github.com/Pranavv157/job_portal.git)
+### 🔹Rate Limiting and Abuse Scoring System
+**Repo:** [Rate Limiting and Abuse Scoring System](https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git)
 
 
 
 # 🤖 GenAI / LLM Projects  
-### 🔹 Gen AI document chat
+### 🔹Gen AI document chat
 **Repo:** [Genai_doc_chat](https://github.com/Pranavv157/genai-doc-chat.git  )
 
 
