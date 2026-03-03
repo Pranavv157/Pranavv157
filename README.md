@@ -16,6 +16,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 ### Customer Churn Prediction System
 
 **Tech:** Python, Pandas, Scikit-Learn, Streamlit
+
 🔗 Repository:
 👉 [https://github.com/Pranavv157/Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
 
@@ -33,6 +34,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 ### Rate Limiting & Abuse Detection System
 
 **Tech:** Django, Redis, System Design
+
 🔗 Repository:
 👉 [https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git](https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git)
 
@@ -43,6 +45,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 ### GenAI Document Chat System
 
 **Tech:** LLMs, Embeddings, Vector Search, Python
+
 🔗 Repository:
 👉 [https://github.com/Pranavv157/genai-doc-chat.git](https://github.com/Pranavv157/genai-doc-chat.git)
 
