@@ -18,7 +18,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** Python, Pandas, Scikit-Learn, Streamlit
 
 🔗 Repository:
-👉 [https://github.com/Pranavv157/Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
+ [https://github.com/Pranavv157/Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
 
 ---
 ## ⚙️ Backend Engineering Projects
@@ -26,8 +26,9 @@ My projects demonstrate **real-world system design, data-driven decision making,
 ### Job Portal Backend System
 
 **Tech:** Django, REST APIs, SQL, Authentication,RBAC
+
 🔗 Repository:
-👉 [https://github.com/Pranavv157/job_portal.git](https://github.com/Pranavv157/job_portal.git)
+ [https://github.com/Pranavv157/job_portal.git](https://github.com/Pranavv157/job_portal.git)
 
 ---
 
@@ -36,7 +37,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** Django, Redis, System Design
 
 🔗 Repository:
-👉 [https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git](https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git)
+ [https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git](https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git)
 
 ---
 
