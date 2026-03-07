@@ -30,7 +30,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 🔗 Repository:
  [https://github.com/Pranavv157/job_portal.git](https://github.com/Pranavv157/job_portal.git)
 
----
+
 
 ### Rate Limiting & Abuse Detection System
 
@@ -48,7 +48,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** LLMs, Embeddings, Vector Search, Python
 
 🔗 Repository:
-👉 [https://github.com/Pranavv157/genai-doc-chat.git](https://github.com/Pranavv157/genai-doc-chat.git)
+ [https://github.com/Pranavv157/genai-doc-chat.git](https://github.com/Pranavv157/genai-doc-chat.git)
 
 ---
 
