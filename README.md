@@ -62,7 +62,6 @@ My projects demonstrate **real-world system design, data-driven decision making,
 
 ---
 
-## 📌 Why This Portfolio Stands Out
 
 ✔ Real-world problem statements
 ✔ Backend-heavy, scalable systems
