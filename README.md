@@ -13,6 +13,13 @@ My projects demonstrate **real-world system design, data-driven decision making,
 
 ## 📊 Data Science & Analytics
 
+### Real Time Fraud Detection Sytem
+
+**Tech:** Python,XGBoost,Scikit-learn,MLflow,FastAPI,Streamlit,Docker
+
+🔗 Repository:
+ [https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System](https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System)
+
 ### Customer Churn Prediction System
 
 **Tech:** Python, Pandas, Scikit-Learn, Streamlit
