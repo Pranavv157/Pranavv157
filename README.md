@@ -2,7 +2,7 @@
 
 ---
 
-# Hi I'm Pranav | Backend / Data Science (Aspiring)
+# Hi I'm Pranav | Backend / Data Science/ MLE (Aspiring)
 
 ## 🚀 Project Portfolio
 
@@ -11,7 +11,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 
 ---
 
-## 📊 Data Science & Analytics
+## 📊 Data Science / Machine Learning
 
 ### Real Time Fraud Detection Sytem
 
