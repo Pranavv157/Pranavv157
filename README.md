@@ -2,7 +2,7 @@
 
 ---
 
-# Hi I'm Pranav | Backend / Data Science/ MLE (Aspiring)
+# Hi I'm Pranav | Backend / Data Science / MLE (Aspiring)
 
 ## 🚀 Project Portfolio
 
@@ -13,38 +13,50 @@ My projects demonstrate **real-world system design, data-driven decision making,
 
 ## 📊 Data Science / Machine Learning
 
-### Real Time Fraud Detection Sytem
+### Real Time Fraud Detection System
 
-**Tech:** Python,XGBoost,Scikit-learn,MLflow,FastAPI,Streamlit,Docker
+**Tech:** Python, XGBoost, Scikit-learn, MLflow, FastAPI, Streamlit, Docker
 
 🔗 Repository:
- [https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System](https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System)
+[https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System](https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System)
+
+---
 
 ### Customer Churn Prediction System
 
 **Tech:** Python, Pandas, Scikit-Learn, Streamlit
 
 🔗 Repository:
- [https://github.com/Pranavv157/Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
+[https://github.com/Pranavv157/Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
 
 ---
+
 ## ⚙️ Backend Engineering Projects
 
-### Job Portal Backend System
+### Financial Ledger System
 
-**Tech:** Django, REST APIs, SQL, Authentication,RBAC
+**Tech:** Python (Django), Django REST Framework, PostgreSQL (recommended), Redis (queue), Celery (async tasks)
 
 🔗 Repository:
- [https://github.com/Pranavv157/job_portal.git](https://github.com/Pranavv157/job_portal.git)
+[https://github.com/Pranavv157/Financial-ledger-system.git](https://github.com/Pranavv157/Financial-ledger-system.git)
 
-
+---
 
 ### Rate Limiting & Abuse Detection System
 
 **Tech:** Django, Redis, System Design
 
 🔗 Repository:
- [https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git](https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git)
+[https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git](https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git)
+
+---
+
+### Job Portal Backend System
+
+**Tech:** Django, REST APIs, SQL, Authentication, RBAC
+
+🔗 Repository:
+[https://github.com/Pranavv157/job_portal.git](https://github.com/Pranavv157/job_portal.git)
 
 ---
 
@@ -55,7 +67,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** LLMs, Embeddings, Vector Search, Python
 
 🔗 Repository:
- [https://github.com/Pranavv157/genai-doc-chat.git](https://github.com/Pranavv157/genai-doc-chat.git)
+[https://github.com/Pranavv157/genai-doc-chat.git](https://github.com/Pranavv157/genai-doc-chat.git)
 
 ---
 
@@ -69,17 +81,11 @@ My projects demonstrate **real-world system design, data-driven decision making,
 
 ---
 
-
 ✔ Real-world problem statements
 ✔ Backend-heavy, scalable systems
 ✔ ML + GenAI with practical business use cases
 ✔ Clean, readable, recruiter-friendly structure
 
 ---
-
-### ⭐ Final Note
-
-I actively build **production-oriented projects** and continuously improve my engineering depth.
-This portfolio reflects my ability to **design, build, and reason about real systems**.
 
 
