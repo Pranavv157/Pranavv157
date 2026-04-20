@@ -20,7 +20,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 🔗 Repository:
 [https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System](https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System)
 
----
+
 
 ### Customer Churn Prediction System
 
@@ -40,7 +40,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 🔗 Repository:
 [https://github.com/Pranavv157/Financial-ledger-system.git](https://github.com/Pranavv157/Financial-ledger-system.git)
 
----
+
 
 ### Rate Limiting & Abuse Detection System
 
@@ -49,7 +49,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 🔗 Repository:
 [https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git](https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git)
 
----
+
 
 ### Job Portal Backend System
 
