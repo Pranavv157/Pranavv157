@@ -6,28 +6,8 @@
 
 ## 🚀 Project Portfolio
 
-I am a **backend-focused engineer** with hands-on experience in **Machine Learning, Data Analytics, scalable backend systems, and GenAI applications**.
+I am a **backend-focused engineer** with hands-on experience in **Machine Learning,scalable backend systems, and GenAI applications**.
 My projects demonstrate **real-world system design, data-driven decision making, and production-grade backend engineering**.
-
----
-
-## 📊 Data Science / Machine Learning
-
-### Real Time Fraud Detection System
-
-**Tech:** Python, XGBoost, Scikit-learn, MLflow, FastAPI, Streamlit, Docker
-
-🔗 Repository:
-[https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System](https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System)
-
-
-
-### Customer Churn Prediction System
-
-**Tech:** Python, Pandas, Scikit-Learn, Streamlit
-
-🔗 Repository:
-[https://github.com/Pranavv157/Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
 
 ---
 
@@ -59,6 +39,27 @@ My projects demonstrate **real-world system design, data-driven decision making,
 [https://github.com/Pranavv157/job_portal.git](https://github.com/Pranavv157/job_portal.git)
 
 ---
+
+## 📊 Data Science / Machine Learning
+
+### Real Time Fraud Detection System
+
+**Tech:** Python, XGBoost, Scikit-learn, MLflow, FastAPI, Streamlit, Docker
+
+🔗 Repository:
+[https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System](https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System)
+
+
+
+### Customer Churn Prediction System
+
+**Tech:** Python, Pandas, Scikit-Learn, Streamlit
+
+🔗 Repository:
+[https://github.com/Pranavv157/Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
+
+---
+
 
 ## 🤖 Generative AI / LLM Projects
 
