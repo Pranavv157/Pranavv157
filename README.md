@@ -20,6 +20,12 @@ My projects demonstrate **real-world system design, data-driven decision making,
 🔗 Repository:
 [https://github.com/Pranavv157/Financial-ledger-system.git](https://github.com/Pranavv157/Financial-ledger-system.git)
 
+### Distributed-Queue-System
+
+**Tech:** Python (Django), PostgreSQL, Redis (queue), Celery (async tasks)
+
+🔗 Repository:
+[https://github.com/Pranavv157/distributed-job-queue.git](https://github.com/Pranavv157/distributed-job-queue.git)
 
 
 ### Rate Limiting & Abuse Detection System
