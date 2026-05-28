@@ -18,7 +18,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** Python (Django), Django REST Framework, PostgreSQL (recommended), Redis (queue), Celery (async tasks)
 
 🔗 Repository:
-[https://github.com/Pranavv157/Financial-ledger-system.git](https://github.com/Pranavv157/Financial-ledger-system.git)
+[Link](https://github.com/Pranavv157/Financial-ledger-system.git)
 
 ### Distributed-Job-Queue-System
 
@@ -33,7 +33,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** Django, Redis, System Design
 
 🔗 Repository:
-[https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git](https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git)
+[Link](https://github.com/Pranavv157/Rate-Limiting-Abuse-Detection-System.git)
 
 
 
@@ -42,7 +42,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** Django, REST APIs, SQL, Authentication, RBAC
 
 🔗 Repository:
-[https://github.com/Pranavv157/job_portal.git](https://github.com/Pranavv157/job_portal.git)
+[Link](https://github.com/Pranavv157/job_portal.git)
 
 ---
 
@@ -53,7 +53,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** Python, XGBoost, Scikit-learn, MLflow, FastAPI, Streamlit, Docker
 
 🔗 Repository:
-[https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System](https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System)
+[Link](https://github.com/Pranavv157/Real-Time_Fraud_Detection-_System)
 
 
 
@@ -62,7 +62,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** Python, Pandas, Scikit-Learn, Streamlit
 
 🔗 Repository:
-[https://github.com/Pranavv157/Customer-Churn-Prediction-ML](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
+[Link](https://github.com/Pranavv157/Customer-Churn-Prediction-ML)
 
 ---
 
@@ -74,7 +74,7 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** LLMs, Embeddings, Vector Search, Python
 
 🔗 Repository:
-[https://github.com/Pranavv157/genai-doc-chat.git](https://github.com/Pranavv157/genai-doc-chat.git)
+[Link](https://github.com/Pranavv157/genai-doc-chat.git)
 
 ---
 
