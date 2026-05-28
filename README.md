@@ -15,9 +15,10 @@ My projects demonstrate **real-world system design, data-driven decision making,
 
 ### Financial Ledger System
 
-**Tech:** Python (Django), Django REST Framework, PostgreSQL (recommended), Redis (queue), Celery (async tasks)
+**Tech:** Python (Django), Django REST Framework, PostgreSQL, Redis (queue), Celery (async tasks)
 
-🔗 Repository:
+🔗 Repository: 
+
 [Link](https://github.com/Pranavv157/Financial-ledger-system.git)
 
 ### Distributed-Job-Queue-System
