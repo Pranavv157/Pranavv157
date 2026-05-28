@@ -18,7 +18,6 @@ My projects demonstrate **real-world system design, data-driven decision making,
 **Tech:** Python (Django), Django REST Framework, PostgreSQL, Redis (queue), Celery (async tasks)
 
 🔗 Repository: 
-
 [Link](https://github.com/Pranavv157/Financial-ledger-system.git)
 
 ### Distributed-Job-Queue-System
