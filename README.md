@@ -2,7 +2,8 @@
 
 ---
 
-# Hi I'm Pranav | Backend Engineer | Distributed Systems Enthusiast | Open to Work
+# Hi I'm Pranav 
+ Backend Engineer | Distributed Systems Enthusiast | Open to Work
 
 ## 🚀 Project Portfolio
 
