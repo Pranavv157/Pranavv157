@@ -2,7 +2,7 @@
 
 ---
 
-# Hi I'm Pranav | Backend / Data Science / MLE (Aspiring)
+# Hi I'm Pranav | Backend Engineer | Distributed Systems Enthusiast | Open to Work
 
 ## 🚀 Project Portfolio
 
