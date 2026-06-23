@@ -78,14 +78,73 @@ My projects demonstrate **real-world system design, data-driven decision making,
 [Link](https://github.com/Pranavv157/genai-doc-chat.git)
 
 ---
+⚙️ Backend Engineering
 
-## 🎯 Core Skills Highlight
 
-* **Backend Development:** Django, REST APIs, Redis, SQL
-* **System Design:** Rate limiting, abuse detection, scalability patterns
-* **Data Science:** EDA, ML pipelines, predictive modeling
-* **GenAI:** LLMs, embeddings, vector databases, RAG
-* **Engineering Practices:** Clean architecture, modular design, production thinking
+
+
+
+
+
+
+
+
+🗄️ Databases & Storage
+
+
+
+
+
+
+☁️ Infrastructure & DevOps
+
+
+
+
+
+
+
+
+🏗️ Distributed Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🤖 Machine Learning
+
+
+
+
+
+
+
+
+
+
+🧠 Core Concepts
+🔒 ACID Transactions
+⚡ Redis Caching
+🔄 Idempotency Keys
+🔐 Authentication & Authorization
+📊 Database Indexing & Query Optimization
+🧵 Multithreading & Concurrency
+📨 Asynchronous Processing
+📈 Scalability Patterns
+🛡️ Reliability Engineering
+🧪 Unit & Integration Testing
+🏛️ Clean Architecture
+🚀 Production-Ready Backend Design
 
 ---
 
