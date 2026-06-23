@@ -80,17 +80,24 @@ My projects demonstrate **real-world system design, data-driven decision making,
 ---
 ### Tech Stack
 
-**Backend:** Python,Go, Django, FastAPI, Celery, REST APIs
+⚙️ Backend
+Python • Django • FastAPI • REST APIs • Celery • SQL
 
-**Databases:** PostgreSQL, Redis, SQL
+🗄️ Databases
+PostgreSQL • Redis 
 
-**Cloud & DevOps:** Docker, AWS, Git
+☁️ Cloud & DevOps
+Docker • AWS • Linux • Git
 
-**Distributed Systems:** Concurrency Control, Distributed Locks, Message Queues, Fault Tolerance, 
+🏗️ Distributed Systems
+Concurrency • Distributed Systems • Distributed Locks • Message Queues • Fault Tolerance
 
-**AI/ML:** Scikit-Learn ,XGBoost, Pandas, NumPy, MLflow, LLMs, RAG, Vector Databases(FAISS),Deep learning, NLP
+🤖 AI & Machine Learning
+Scikit-Learn • XGBoost • MLflow • LLMs • RAG • Embeddings • Vector Databases(FAISS)
 
-**Software Engineering:** System Design, Design Patterns, Clean Architecture, Testing
+🧠 Software Engineering
+System Design • Design Patterns • Clean Architecture • Testing
+
 
 ---
 
