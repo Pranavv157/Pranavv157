@@ -78,73 +78,19 @@ My projects demonstrate **real-world system design, data-driven decision making,
 [Link](https://github.com/Pranavv157/genai-doc-chat.git)
 
 ---
-⚙️ Backend Engineering
+### Tech Stack
 
+**Backend:** Python,Go, Django, FastAPI, Celery, REST APIs
 
+**Databases:** PostgreSQL, Redis, SQL
 
+**Cloud & DevOps:** Docker, AWS, Git
 
+**Distributed Systems:** Concurrency Control, Distributed Locks, Message Queues, Fault Tolerance, 
 
+**AI/ML:** Scikit-Learn ,XGBoost, Pandas, NumPy, MLflow, LLMs, RAG, Vector Databases(FAISS),Deep learning, NLP
 
-
-
-
-
-🗄️ Databases & Storage
-
-
-
-
-
-
-☁️ Infrastructure & DevOps
-
-
-
-
-
-
-
-
-🏗️ Distributed Systems
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🤖 Machine Learning
-
-
-
-
-
-
-
-
-
-
-🧠 Core Concepts
-🔒 ACID Transactions
-⚡ Redis Caching
-🔄 Idempotency Keys
-🔐 Authentication & Authorization
-📊 Database Indexing & Query Optimization
-🧵 Multithreading & Concurrency
-📨 Asynchronous Processing
-📈 Scalability Patterns
-🛡️ Reliability Engineering
-🧪 Unit & Integration Testing
-🏛️ Clean Architecture
-🚀 Production-Ready Backend Design
+**Software Engineering:** System Design, Design Patterns, Clean Architecture, Testing
 
 ---
 
