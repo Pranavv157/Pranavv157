@@ -5,7 +5,7 @@
 # Hi I'm Pranav 
  Backend Engineer | Distributed Systems Enthusiast | Open to Work
 
-## 🚀 Project Portfolio
+##
 
 I am a **backend-focused engineer** with hands-on experience in **Scalable backend systems,machine Learning and GenAI applications**.
 My projects demonstrate **real-world system design, data-driven decision making, and production-grade backend engineering**.
